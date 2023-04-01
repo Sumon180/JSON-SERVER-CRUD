@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 3,
+      "name": "Sumon Hossain",
+      "email": "sumon@gmail.com",
+      "phone": "85868620173",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "John Due",
+      "email": "john@gmail.com",
+      "phone": "200023232",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Jaman Shikder",
+      "email": "jaman@gmail.com",
+      "phone": "666666555556",
+      "active": true
+    }
+  ]
+}
